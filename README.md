@@ -62,9 +62,9 @@ You should be able to ...
 - [x] In Atom, edit this README file and add your *second* favorite emoji here: 😜
 - [x] In Github Desktop, confirm the README file was saved and shows your new changes in the Changes tab
 - [x] Commit your changes to the README file directly to the master branch with the message `commit #2 from Github Desktop`
-- [ ] Click Push origin to push your changes back to remote repo  
-- [ ] Confirm the changes to the README file were pushed: Choose Repository > View on Github
-- [ ] Click on the README file and then click on History to see the history of this file
+- [x] Click Push origin to push your changes back to remote repo  
+- [x] Confirm the changes to the README file were pushed: Choose Repository > View on Github
+- [x] Click on the README file and then click on History to see the history of this file
 
 
 ### Command line (CLI)
