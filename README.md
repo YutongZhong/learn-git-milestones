@@ -99,16 +99,16 @@ You should be able to ...
 
 ![atom-git-menu](img/atom-git-menu.png)
 
-- [ ] Select on your file(s) in Unstaged changes and confirm your changes match what you expect to see
-- [ ] Double click on each file with changes to stage them  
-- [ ] Commit your changes directly to the master branch with the message `commit #4 from Atom`
+- [x] Select on your file(s) in Unstaged changes and confirm your changes match what you expect to see
+- [x] Double click on each file with changes to stage them  
+- [x] Commit your changes directly to the master branch with the message `commit #4 from Atom`
 
 
 
 
 ## Create a repository
 
-- [ ] Create a repository from scratch
+- [x] Create a repository from scratch
   - [ ] In Github Desktop, create a new repository ...
   - [ ] Name: `my-awesome-website`
   - [ ] Local Path: Click "Choose" and create a new folder `my-awesome-website` inside the `critical-web-design` folder you made above
