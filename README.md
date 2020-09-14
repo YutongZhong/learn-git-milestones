@@ -24,7 +24,7 @@ Create a Github account and make your first commit
 - [x] [Create a Github account](https://github.com/join)
 - [x] Fork this repository [learn-git-milestones](https://github.com/omundy/learn-git-milestones) (click the Fork button, top right).
 - [x] Edit the README file (click the pencil icon) and add your favorite emoji here: 😈
-- [ ] Replace the space in the `[ ]` preceding each of the lines you complete with an x so they look like `[x]` 
+- [x] Replace the space in the `[ ]` preceding each of the lines you complete with an x so they look like `[x]`
 - [x] Commit changes to the README file directly to the master branch with the message `commit #1 from Github.com`
 - [x] View the commit history and confirm your edits
 
@@ -85,17 +85,17 @@ You should have a basic familiarity with the command line in case you need to do
   - [x] View the changed files of your repo: `git diff`
   - [x] Add all changed files to the staging area `git add .`
   - [x] View the status of your repo `git status` to confirm it has been staged
-  - [ ] Commit your changes with the message `commit #3 from CLI`
-  - [ ] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
+  - [x] Commit your changes with the message `commit #3 from CLI`
+  - [x] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
 
 
 ### Git in Atom
 You should be able to ...
 
-- [ ] In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom  
-- [ ] In Atom, edit this README file and add your *third* favorite emoji here: **??**
-- [ ] Create a new file `hello.txt`, add some text and save it.
-- [ ] Display the Git panel (click the small Git button at the bottom right).
+- [x] In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom  
+- [x] In Atom, edit this README file and add your *third* favorite emoji here: 🐶
+- [x] Create a new file `hello.txt`, add some text and save it.
+- [x] Display the Git panel (click the small Git button at the bottom right).
 
 ![atom-git-menu](img/atom-git-menu.png)
 
@@ -138,7 +138,7 @@ Now that we have basic Git commands out of the way use Git to create and turn in
   - [ ] Go to the settings page for your repo on Githu.com and scroll aaaaallllll the way down to the Github Pages section
   - [ ] Select the master branch source and click save
   - [ ] Do not use a theme. Start from scratch
-  - [ ] Visit your project site at http://*username*.github.io/dig245-a1 
+  - [ ] Visit your project site at http://*username*.github.io/dig245-a1
   - [ ] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
   - [ ] Paste this link into the appropriate Moodle forum
 
