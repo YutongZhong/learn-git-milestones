@@ -130,17 +130,17 @@ You should be able to ...
 Now that we have basic Git commands out of the way use Git to create and turn in your DIG 245 assignment ...
 
 
-- [ ] Complete Assignment 1
-  - [ ] Follow the instructions in [https://github.com/omundy/dig245-a1/](https://github.com/omundy/dig245-a1/)
-  - [ ] Test your file in a web browser
-  - [ ] Commit and push the files to Github
-- [ ] Set up a [Github page](https://pages.github.com/) "project site" for your repo
-  - [ ] Go to the settings page for your repo on Githu.com and scroll aaaaallllll the way down to the Github Pages section
-  - [ ] Select the master branch source and click save
-  - [ ] Do not use a theme. Start from scratch
-  - [ ] Visit your project site at http://*username*.github.io/dig245-a1
-  - [ ] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
-  - [ ] Paste this link into the appropriate Moodle forum
+- [x] Complete Assignment 1
+  - [x] Follow the instructions in [https://github.com/omundy/dig245-a1/](https://github.com/omundy/dig245-a1/)
+  - [x] Test your file in a web browser
+  - [x] Commit and push the files to Github
+- [x] Set up a [Github page](https://pages.github.com/) "project site" for your repo
+  - [x] Go to the settings page for your repo on Githu.com and scroll aaaaallllll the way down to the Github Pages section
+  - [x] Select the master branch source and click save
+  - [x] Do not use a theme. Start from scratch
+  - [x] Visit your project site at http://*username*.github.io/dig245-a1
+  - [x] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
+  - [x] Paste this link into the appropriate Moodle forum
 
 
 ## Git Fluency
