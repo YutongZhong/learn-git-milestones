@@ -109,21 +109,21 @@ You should be able to ...
 ## Create a repository
 
 - [x] Create a repository from scratch
-  - [ ] In Github Desktop, create a new repository ...
-  - [ ] Name: `my-awesome-website`
-  - [ ] Local Path: Click "Choose" and create a new folder `my-awesome-website` inside the `critical-web-design` folder you made above
-  - [ ] Click Create Repository
-  - [ ] This should now be your class folder's directory structure.
+  - [x] In Github Desktop, create a new repository ...
+  - [x] Name: `my-awesome-website`
+  - [x] Local Path: Click "Choose" and create a new folder `my-awesome-website` inside the `critical-web-design` folder you made above
+  - [x] Click Create Repository
+  - [x] This should now be your class folder's directory structure.
   ```
   critical-web-design
     |-- my-awesome-website
     |-- learn-git-milestones
   ```
-  - [ ] Open your new repository in Atom (with Github Desktop or drag the `my-awesome-website` project folder into Atom)
-  - [ ] Add a README file: `README.md`
-  - [ ] In the README write your name and the date
-  - [ ] Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-  - [ ] Create a file called `index.html` in your repo and add some html
+  - [x] Open your new repository in Atom (with Github Desktop or drag the `my-awesome-website` project folder into Atom)
+  - [x] Add a README file: `README.md`
+  - [x] In the README write your name and the date
+  - [x] Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+  - [x] Create a file called `index.html` in your repo and add some html
 
 
 ## Turn in Assignments
